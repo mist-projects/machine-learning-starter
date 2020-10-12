@@ -19,3 +19,5 @@ Decision Tree Classification
 Random Forest Classification
 
 Deep Learning 
+Artificial Neural Networks (ANN)
+Convolutional Neural Networks (CNN)
