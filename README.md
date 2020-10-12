@@ -18,6 +18,6 @@ Naive Bayes
 Decision Tree Classification
 Random Forest Classification
 
-Deep Learning 
+Deep Learning :
 Artificial Neural Networks (ANN)
 Convolutional Neural Networks (CNN)
